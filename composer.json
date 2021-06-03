@@ -1,0 +1,7 @@
+{
+    "name": "baby/micro-serv",
+    "description": "this is used to test micro service",
+    "require": {
+        "swoole/ide-helper": "^4.6"
+    }
+}
