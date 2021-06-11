@@ -3,5 +3,10 @@
     "description": "this is used to test micro service",
     "require": {
         "swoole/ide-helper": "^4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "MicroServ\\": "src/"
+        }
     }
 }
